@@ -1,0 +1,21 @@
+{
+  "name": "modulo6_franciscocarrasco",
+  "version": "1.0.0",
+  "description": "Proyecto modulo6 bootcamp Javascript trainee.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./src/index.js",
+    "start": "node ./src/index.js"
+  },
+  "keywords": [],
+  "author": "Francisco Carrasco",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
